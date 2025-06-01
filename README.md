@@ -101,7 +101,7 @@ You should now see the home page of the I'MUNITE PHARMA website.
 
 ## 🙋‍♂️ Author
 
-* **Your Name**
+* **Hani Jawad**
 * 📧 Email: hanijawad04@gmail.com
 * 🧑‍💻 GitHub: https://github.com/hanijawad04
 
