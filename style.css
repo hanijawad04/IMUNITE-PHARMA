@@ -6,28 +6,23 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-/*nav maenu on the left as a unordered list*/
 .navbar{
     display:flex;
     align-items: center;
     padding:20px;
 }
-/*nav maenu on the right as a unordered list*/
 nav{
     flex: 1;
     text-align: right;
 }
-/*nav maenu on the right as a list but without bullet*/
 nav ul{
     display: inline-block;
     list-style-type: none;   
 }
-/*nav maenu on the right as a vertically list with 50px gapping with each with underline*/
 nav ul li{
     display: inline-block;
     margin-right: 50px;   
 }
-/*nav maenu on the right as a vertically list with 50px gapping with each without underline*/
 a{
     text-decoration: none;
     color: #555;
@@ -398,10 +393,6 @@ input:focus{
     flex-basis: 24%;
     cursor: pointer;
 }
-
-
-
-
         /*------------------------------ cart items ------------------------------*/
 .cart-page{
     margin: 80px auto;
@@ -456,7 +447,6 @@ th:last-child{
     text-align: right;
 }
 
-
         /*------------------------------ account-page ------------------------------*/
 .account-page{
     padding: 50px 0;
@@ -491,7 +481,7 @@ th:last-child{
     padding: 0 20px;
     position: absolute;
     top: 130px;
-    transition: transform 1s;
+    transition: transform 0.5s;
 }
 
 form input{
@@ -531,4 +521,13 @@ form a{
     transform: translateX(100px);
     transition: transform 1s;
 
+}
+/* FOR PRODUCT DESCRIPTION */
+pre{
+    font-family: sans-serif;
+}
+
+/*------------------------------ cart items ------------------------------*/
+.cart-page{
+    margin: 80px auto;
 }
