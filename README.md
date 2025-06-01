@@ -14,6 +14,7 @@
 - [Installation & Setup](#-installation--setup)
 - [Author](#-author)
 - [License](#-license)
+- [Screenshots](#-screenshots)
 
 ---
 
@@ -110,6 +111,30 @@ You should now see the home page of the I'MUNITE PHARMA website.
 
 This project is intended for **personal** and **educational** purposes only.
 You are free to use, modify, or extend it, but redistribution or commercial use is **not permitted** without permission.
+
+---
+## 🖼️ Screenshots
+
+Below are some screenshots of the I'MUNITE PHARMA website interface:
+
+### 🏠 Home Page (Top Section)
+![Home Page Top](screenshots/index.jpg)
+
+### 🏠 Home Page (Middle Section)
+![Home Page Middle](screenshots/index_mid.jpg)
+
+### 🏠 Home Page (Footer Section)
+![Home Page Footer](screenshots/index_footer.jpg)
+
+### 🛒 Products Listing
+![Products Page](screenshots/products.jpg)
+
+### 🧾 Cart Page
+![Cart Page](screenshots/cart.jpg)
+
+### 📝 Register Page
+![Register Page](screenshots/register.jpg)
+
 
 ---
 
